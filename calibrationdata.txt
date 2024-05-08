@@ -1,0 +1,8 @@
+oven dry	460
+10 wt % water	210
+10 wt % water	290
+10 wt % water	380
+20 wt % water      	186
+20 wt % water      	210
+20 wt % water      	220
+soaked  	190
